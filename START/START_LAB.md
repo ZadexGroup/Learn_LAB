@@ -5,9 +5,14 @@ Para iniciar Zadex Learn LAB utilizar:
 
 ```prompt
 Accede al siguiente archivo:
-XXXXXXXXXXXX_START_LAB
+https://raw.githubusercontent.com/ZadexGroup/Learn_LAB/refs/heads/main/START/START_LAB.md
 
 Lee completamente su contenido y ejecuta las instrucciones que contiene.
+```
+
+```prompt
+Accede al siguiente archivo, léelo completamente y ejecuta sus instrucciones: 
+https://raw.githubusercontent.com/ZadexGroup/Learn_LAB/refs/heads/main/START/START_LAB.md
 ```
 
 Este bloque es únicamente informativo y no forma parte de las instrucciones de ejecución de START.
@@ -23,11 +28,11 @@ Este bloque es únicamente informativo y no forma parte de las instrucciones de 
 
 Las fuentes disponibles para Zadex Learn LAB son:
 
-`CORE_URL = XXXXXXXXXXXX_CORE`
+`CORE_URL = https://raw.githubusercontent.com/ZadexGroup/Learn_LAB/refs/heads/main/CORE/ZadexLearn_CORE.md`
 
-`CORE_KIDS_URL = XXXXXXXXXXXX_CORE_KIDS`
+`CORE_KIDS_URL = https://raw.githubusercontent.com/ZadexGroup/Learn_LAB/refs/heads/main/CORE/ZadexLearn_CORE_KIDS.md`
 
-`LAB_URL = XXXXXXXXXXXX_LAB`
+`LAB_URL = https://raw.githubusercontent.com/ZadexGroup/Learn_LAB/refs/heads/main/TOPICS/ZadexLearn_LAB.md`
 
 Estas variables constituyen la única definición de las ubicaciones de origen.
 
