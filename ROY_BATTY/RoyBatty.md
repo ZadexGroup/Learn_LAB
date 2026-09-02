@@ -8,7 +8,7 @@
 -   `URL_CONSULTANT`:
     https://raw.githubusercontent.com/ZadexGroup/Learn_LAB/refs/heads/main/ROY_BATTY/MODULES/BASELINE_RoyBatty.md
 -   `URL_SALES`:
-    https://raw.githubusercontent.com/ZadexGroup/Learn_LAB/refs/heads/main/ROY_BATTY/MODULES/SALES.md
+    https://raw.githubusercontent.com/ZadexGroup/Learn_LAB/refs/heads/main/ROY_BATTY/MODULES/RoyBatty_SALES.md
 
 ------------------------------------------------------------------------
 
