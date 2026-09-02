@@ -6,7 +6,7 @@
 > puntos del documento.
 
 -   `URL_CONSULTANT`:
-    https://raw.githubusercontent.com/ZadexGroup/Learn_LAB/refs/heads/main/ROY_BATTY/CONSULTANT_v001.md
+    https://raw.githubusercontent.com/ZadexGroup/Learn_LAB/refs/heads/main/ROY_BATTY/RoyBatty_v001.md
 -   `URL_SALES`:
     https://raw.githubusercontent.com/ZadexGroup/Learn_LAB/refs/heads/main/ROY_BATTY/MODULES/SALES.md
 
