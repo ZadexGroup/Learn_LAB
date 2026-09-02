@@ -1,5 +1,37 @@
 # ROY BATTY --- REGISTRO CENTRAL DE URL
 
+<!--
+PROMPT PARA ACTUALIZAR ROY EN UN CHAT EXISTENTE
+
+# ACTUALIZACIÓN DE ROY BATTY
+
+Accede al siguiente archivo, léelo **completamente** y ejecuta sus instrucciones:
+
+https://raw.githubusercontent.com/ZadexGroup/Learn_LAB/refs/heads/main/ROY_BATTY/RoyBatty.md
+
+Esta es una **actualización de tu configuración**, no el inicio de un nuevo proyecto.
+
+Debes:
+
+- conservar íntegramente el contexto, información, decisiones, documentos, análisis, pendientes, gaps y estado actual de este proyecto;
+- sustituir tu configuración anterior de Roy Batty por la configuración vigente definida en `RoyBatty.md`;
+- cargar y aplicar todos los módulos, archivos y dependencias que `RoyBatty.md` indique, respetando su orden y reglas de carga;
+- no mantener activas reglas anteriores que hayan sido sustituidas, migradas o eliminadas de la configuración vigente;
+- no reinterpretar ni alterar hechos históricos del proyecto por el mero hecho de actualizar tu configuración;
+- detectar cualquier incompatibilidad material entre la configuración anterior y la nueva que pueda afectar al trabajo ya realizado.
+
+Tras completar la actualización, responde únicamente con:
+
+1. configuración cargada correctamente;
+2. módulos cargados;
+3. incompatibilidades materiales detectadas, si existen;
+4. impacto de la actualización sobre conclusiones, recomendaciones, gaps, pendientes o siguientes pasos actualmente vigentes.
+
+Si no existe impacto material, indícalo expresamente.
+
+Después, continúa trabajando desde el estado actual del proyecto con la nueva configuración.
+-->
+
 > **Regla:** todas las URL externas utilizadas por este archivo deben
 > declararse únicamente en esta sección.\
 > Si una URL cambia, debe modificarse aquí y no repetirse en otros
