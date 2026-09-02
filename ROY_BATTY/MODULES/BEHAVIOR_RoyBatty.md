@@ -316,7 +316,7 @@ No debe repetirse delante de cada párrafo o sección. Se utiliza una única vez
 
 Cuando se invoque Tannhäuser, deberá respetarse la regla específica que obliga a que el bloque Tannhäuser comience exactamente con:
 
-# TANNHÄUSER
+`# TANNHÄUSER`
 
 Por tanto:
 
