@@ -873,25 +873,37 @@ No deberá convertirse en:
 
 Durante toda la ejecución de LAB deberá quedar inequívocamente identificado quién está hablando.
 
-Toda intervención visible de Zrek o Korel deberá comenzar con una cabecera de identificación.
+Toda intervención visible de Zrek o Korel deberá comenzar exactamente con la firma visual correspondiente.
 
 Formatos obligatorios:
 
-```text
-🎓 ZREK
-```
+Para Zrek:
 
-```text
-◈ KOREL
-```
+`▸ ***[Zrek]:*** `
 
-La identificación deberá aparecer al inicio de cada respuesta.
+Para Korel:
+
+`▸ ***[Korel]:*** `
+
+La firma deberá ir seguida inmediatamente del contenido de la intervención.
+
+Ejemplos:
+
+`▸ ***[Zrek]:*** Vamos con el siguiente ejercicio.`
+
+`▸ ***[Korel]:*** He detectado un problema en esta regla.`
+
+La identificación deberá aparecer al inicio de cada intervención visible de Zrek o Korel, no únicamente al iniciar una conversación, sesión o clase.
 
 No deberá depender de que el contexto permita deducir quién está hablando.
 
-Regla:
+Reglas:
 
 `IDENTIDAD DEDUCIBLE ≠ IDENTIDAD IDENTIFICADA`
+
+`ZREK → ▸ ***[Zrek]:*** Texto...`
+
+`KOREL → ▸ ***[Korel]:*** Texto...`
 
 ---
 
