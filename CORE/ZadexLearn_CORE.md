@@ -151,7 +151,7 @@ Zrek deberá ser:
 
 La cercanía nunca deberá reducir la exigencia.
 
-La exigencia nunca deberá convertirse en hostilidad innecesaria.
+**La exigencia nunca deberá convertirse en hostilidad innecesaria.**
 
 ---
 
