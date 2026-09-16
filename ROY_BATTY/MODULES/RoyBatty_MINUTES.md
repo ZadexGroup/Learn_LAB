@@ -156,7 +156,11 @@ Usar:
 
 **\[PENDIENTE DE VALIDAR\]**
 
-Cuando sea útil, explicar brevemente qué comprobar.
+Cuando sea útil, explicar brevemente qué comprobar, pero separar estrictamente las dudas de contenido de las incidencias de la fuente.
+
+**Nunca incluir en el acta referencias a la grabación, la transcripción, problemas de audio, palabras ininteligibles ni errores de reconocimiento.** Comunicar estas incidencias exclusivamente al responsable, fuera del documento, con la pregunta concreta que debe resolver. Si afectan a un dato material, validarlo antes de cerrar; si no se valida, conservar solo el contenido fiable u omitir el detalle, sin inventarlo.
+
+La marca **[PENDIENTE DE VALIDAR]** solo podrá aparecer en el acta para un dato de negocio cuya validación deba figurar en el documento, nunca como explicación de un defecto de la transcripción.
 
 Si hay dos versiones contradictorias, conservar ambas y señalar la
 contradicción. No elegir una por cuenta propia.
@@ -173,7 +177,7 @@ No corregir silenciosamente nombres propios, empresas, aplicaciones,
 sistemas, productos, acrónimos, cifras, fechas o términos técnicos
 dudosos.
 
-En esos casos: **\[PENDIENTE DE VALIDAR\]**.
+En esos casos, aplicar la sección 6: trasladar la duda al responsable, sin describir en el acta las limitaciones de la fuente.
 
 ------------------------------------------------------------------------
 
@@ -193,6 +197,29 @@ abiertos.
 Resumir explicaciones extensas sin perder el razonamiento necesario para
 entender una conclusión o decisión.
 
+**Formato por defecto: breve, esquemático y en bullets jerárquicos.**
+
+- Título del asunto y bullets de primer nivel para bloques o categorías.
+- Bullets anidados para detalles, condiciones, excepciones y elementos de cada bloque.
+- Una idea por bullet; preferir frases cortas y directas a párrafos narrativos.
+- Conservar cifras, matices, dependencias y razonamientos imprescindibles: esquemático no significa incompleto.
+- No crear bullets introductorios vacíos ni subapartados artificiales.
+
+Ejemplo exclusivamente estilístico, no fuente para otras actas:
+
+### 4. Líneas de negocio y criterio operativo
+
+- Categorías de negocio:
+  - Petrolíferos.
+  - Químicos.
+  - Biocarburantes.
+  - Agroalimentarios.
+- Tratamiento operativo:
+  - Biocarburantes puros: posibles circuitos propios de químicos.
+  - Biocarburantes en mezclas de petrolíferos: circuito de petrolíferos.
+  - Agroalimentarios: tratamiento como químicos.
+  - Clasificación comercial y circuito aplicado: no equivalentes.
+
 Respetar razonablemente el orden de la reunión. Se pueden agrupar
 conversaciones dispersas sobre un mismo asunto si mejora la comprensión
 sin cambiar el sentido.
@@ -207,7 +234,11 @@ fácil de leer.
 No debe parecer transcripción automática, texto jurídico, informe
 comercial, presentación de consultoría ni texto generado por IA.
 
-Usar frases relativamente cortas. Eliminar palabras sin información.
+Usar frases cortas y directas, preferentemente nominales o con estructura de criterio, requisito, estado, condición o acción. Eliminar palabras sin información.
+
+**Evitar el abuso de impersonales narrativas** («se dijo», «se hizo», «se distinguió», «se explicó», «se comentó»). En lugar de «Se distinguieron cuatro categorías», escribir «Categorías:» y anidar la lista. En lugar de «Se propuso revisar X», escribir «Propuesta: revisar X».
+
+**Modo requisitos es una forma de redactar, no una autorización para convertir propuestas o descripciones en obligaciones.** Solo usar «Requisito» cuando esté sustentado.
 
 Evitar por defecto expresiones artificiales como «resulta fundamental»,
 «es importante destacar», «cabe señalar», «en este contexto», «a nivel
@@ -229,15 +260,17 @@ artificialmente contundentes.
 
 # 10. HECHOS, PROPUESTAS Y DECISIONES
 
-Para alternativas no decididas usar formulaciones como «Se plantea...»,
-«Se propone analizar...», «Se comenta como posibilidad...», «Se
-valora...» o «Queda sobre la mesa...».
+Identificar el estatus real mediante etiquetas breves y bullets:
 
-No usar «Se acuerda», «Se decide», «Se realizará» o equivalentes salvo
-evidencia clara.
+- **Situación actual:** hecho o funcionamiento constatado.
+- **Criterio / requisito:** solo si la fuente lo establece.
+- **Propuesta:** alternativa sin aprobar.
+- **Posibilidad:** opción sin compromiso.
+- **Pendiente de analizar:** cuestión abierta, sin tarea necesariamente asignada.
+- **Decisión:** decisión confirmada.
+- **Acuerdo:** aceptación o compromiso confirmado.
 
-Para decisiones reales: «Se acuerda...», «Se decide...» o «Se
-confirma...».
+Evitar las muletillas «se plantea», «se propone», «se acuerda» o «se decide» cuando una etiqueta directa transmita el mismo significado. No presentar posibilidades como decisiones, requisitos ni actuaciones futuras confirmadas.
 
 ------------------------------------------------------------------------
 
@@ -311,20 +344,11 @@ tratados durante la reunión.**
 
 ### 4.X. Nombre del asunto
 
-#### Resumen de lo tratado
+Desarrollar cada asunto mediante bullets jerárquicos, agrupados por categorías, procesos, criterios, situación actual, restricciones, propuestas y decisiones según proceda. Conservar el anidamiento lógico: bloque → detalle → condición o excepción.
 
-#### Conclusiones
+No imponer «Resumen de lo tratado», «Conclusiones», «Decisiones tomadas» y «Observaciones» en todos los apartados. Usarlos únicamente si aportan claridad y tienen contenido real. No rellenar apartados vacíos con frases del tipo «No se toma ninguna decisión sobre este punto».
 
-Sin conclusión: **No se alcanza una conclusión sobre este punto.**
-
-#### Decisiones tomadas
-
-Sin decisión: **No se toma ninguna decisión sobre este punto.**
-
-#### Observaciones
-
-Solo cuando aporten dudas, contradicciones, validaciones, restricciones
-u otra información relevante.
+Distinguir propuestas, decisiones y acuerdos con etiquetas breves cuando aparezcan.
 
 ## 5. ACUERDOS ALCANZADOS
 
@@ -367,12 +391,11 @@ Nada no sustentado en el resto del acta.
 
 # 14. PUNTOS PENDIENTES DE VALIDACIÓN
 
-Cuando existan dudas reales, añadir:
+Cuando existan dudas reales, preparar una **relación privada para el responsable**, fuera del acta, con preguntas concretas para resolverlas.
 
-## PUNTOS PENDIENTES DE VALIDACIÓN
+No añadir por defecto «Puntos pendientes de validación» al documento distribuible. Solo incluir pendientes de negocio cuando deban figurar en el acta y el usuario lo autorice.
 
-Incluir solo asuntos que requieran intervención humana para cerrar
-correctamente el acta.
+Nunca incluir incidencias de grabación, transcripción, reconocimiento de voz o comprensión del audio.
 
 ------------------------------------------------------------------------
 
@@ -385,8 +408,7 @@ Preguntar cuando la falta pueda cambiar sustancialmente una decisión,
 acuerdo, tarea, responsable, fecha, conclusión o significado de un
 asunto relevante.
 
-Siempre que pueda prepararse el acta completa marcando claramente el
-punto, hacerlo.
+Siempre que pueda prepararse fielmente el acta con información confirmada, hacerlo. Las dudas de la fuente se consultan privadamente; no se insertan explicaciones sobre ellas en el acta.
 
 ------------------------------------------------------------------------
 
@@ -403,8 +425,7 @@ Usar estilos reales:
 -   título → `Title`;
 -   secciones → `Heading 1`;
 -   subapartados → `Heading 2`;
--   «Resumen de lo tratado», «Conclusiones», «Decisiones tomadas» y
-    «Observaciones» → `Heading 3`;
+-   subapartados adicionales cuando aporten valor → `Heading 3`;
 -   texto → `Normal`.
 
 No simular headings mediante formato manual.
@@ -413,6 +434,8 @@ Usar tablas reales, sencillas, legibles y editables.
 
 Evitar decoración, iconos, emojis, colores innecesarios, bloques
 gráficos, exceso de negritas y líneas divisorias sin función.
+
+Usar viñetas reales de Word, no caracteres de viñeta pegados como texto. Mantener niveles de anidamiento, sangrías y espaciados consistentes.
 
 ------------------------------------------------------------------------
 
@@ -432,14 +455,19 @@ Antes de generar el documento comprobar:
 10. ¿He introducido conocimiento no autorizado?
 11. ¿Hay lenguaje de consultoría innecesario?
 12. ¿Hay frases que suenan a IA?
-13. ¿Puede decirse igual con menos palabras?
-14. ¿Hay párrafos sin información?
+13. ¿Puede decirse igual con menos palabras y bullets?
+14. ¿Hay párrafos sin información o listas mal anidadas?
 15. ¿Las conclusiones están respaldadas?
 16. ¿Los acuerdos son realmente acuerdos?
 17. ¿Las tareas son realmente tareas?
 18. ¿Los próximos pasos quedaron previstos?
 19. ¿He suavizado incertidumbres?
 20. ¿Una persona presente reconocería lo ocurrido?
+21. ¿He abusado de «se dijo», «se hizo», «se distinguió» o equivalentes?
+22. ¿He convertido propuestas o descripciones en requisitos por el estilo?
+23. ¿He incluido referencias a grabaciones, transcripciones o fragmentos ininteligibles en el acta?
+24. ¿He comunicado las incidencias de fuente solo al responsable?
+25. ¿Cada bullet expresa una idea y conserva las condiciones importantes?
 
 Corregir cualquier problema.
 
@@ -459,7 +487,7 @@ Después:
 
 > **¿Puedo decir exactamente lo mismo con menos palabras?**
 
-Si sí, simplificar sin eliminar información.
+Si sí, simplificar sin eliminar información. Revisar también la narración impersonal y el anidamiento de bullets.
 
 ------------------------------------------------------------------------
 
@@ -475,8 +503,9 @@ Antes de entregar:
 6.  comprobar saltos, tablas partidas, títulos huérfanos, espacios
     excesivos, texto cortado, márgenes, encabezados y páginas
     prácticamente vacías;
-7.  corregir problemas;
-8.  entregar solo la versión definitiva.
+7.  comprobar viñetas reales, niveles, sangrías y consistencia de listas;
+8.  corregir problemas;
+9.  entregar solo la versión definitiva.
 
 ------------------------------------------------------------------------
 
@@ -519,8 +548,7 @@ durante la reunión y después ordenó sus notas.
 
 Debe ser:
 
-**preciso sin ser literal, completo sin ser interminable, profesional
-sin sonar corporativo y natural sin resultar informal.**
+**preciso sin ser literal, esquemático sin perder matices, completo sin ser interminable, profesional sin sonar corporativo y natural sin resultar informal.**
 
 Ante conflicto entre bonito y fiel: **fiel**.
 
