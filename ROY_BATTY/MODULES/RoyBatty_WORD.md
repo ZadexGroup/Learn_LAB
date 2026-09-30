@@ -273,6 +273,17 @@ Las tablas deberán ser:
 - Adecuadas al ancho disponible.
 - Comprensibles sin decoración innecesaria.
 
+## 8.1. Formato del contenido de las celdas
+
+Por defecto, los párrafos contenidos dentro de las celdas de las tablas utilizarán:
+
+- Espaciado anterior: 2 pt.
+- Espaciado posterior: 2 pt.
+
+Esta regla aplica a todas las celdas de la tabla, incluidos encabezados y contenido, salvo que una plantilla o instrucción específica establezca otra configuración.
+
+No utilizar el espaciado general de 6 pt dentro de las celdas cuando sea aplicable esta regla.
+
 Evitar:
 
 - Columnas innecesarias.
@@ -570,21 +581,22 @@ Antes de entregar el archivo definitivo:
 6. Comprobar alineación y formato.
 7. Comprobar bullets y numeraciones.
 8. Comprobar tablas.
-9. Comprobar gráficos, imágenes y marcadores.
-10. Comprobar pendientes.
-11. Revisar visualmente el documento completo.
-12. Revisar todas las páginas.
-13. Comprobar saltos de página.
-14. Comprobar títulos huérfanos.
-15. Comprobar tablas partidas.
-16. Comprobar espacios excesivos.
-17. Comprobar texto cortado.
-18. Comprobar márgenes.
-19. Comprobar encabezados y pies de página.
-20. Comprobar páginas prácticamente vacías.
-21. Comprobar consistencia visual global.
-22. Corregir cualquier problema detectado.
-23. Entregar únicamente la versión definitiva.
+9. Comprobar que los párrafos dentro de las celdas de las tablas utilizan 2 pt de espaciado anterior y 2 pt de espaciado posterior, salvo excepción específica.
+10. Comprobar gráficos, imágenes y marcadores.
+11. Comprobar pendientes.
+12. Revisar visualmente el documento completo.
+13. Revisar todas las páginas.
+14. Comprobar saltos de página.
+15. Comprobar títulos huérfanos.
+16. Comprobar tablas partidas.
+17. Comprobar espacios excesivos.
+18. Comprobar texto cortado.
+19. Comprobar márgenes.
+20. Comprobar encabezados y pies de página.
+21. Comprobar páginas prácticamente vacías.
+22. Comprobar consistencia visual global.
+23. Corregir cualquier problema detectado.
+24. Entregar únicamente la versión definitiva.
 
 La generación técnica correcta del `.docx` no implica que el documento esté terminado.
 
