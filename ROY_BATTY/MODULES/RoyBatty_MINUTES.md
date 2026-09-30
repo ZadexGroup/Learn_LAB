@@ -484,36 +484,26 @@ Siempre que pueda prepararse fielmente el acta con información confirmada, hace
 
 # 16. SALIDA WORD
 
-Por defecto, el resultado final será **Microsoft Word (.docx)**
-completamente editable y listo para revisar/distribuir, salvo que el
-usuario solicite otro formato o texto.
+Por defecto, el resultado final será **Microsoft Word (.docx)** completamente
+editable y listo para revisar/distribuir, salvo que el usuario solicite otro
+formato o texto.
 
-Todo el documento utilizará **Arial**.
+Cuando la salida sea Word, aplicar íntegramente `RoyBatty_WORD.md` para su
+materialización documental, formato y QA.
 
-Usar estilos reales:
+MINUTES conserva las reglas específicas del acta, que prevalecen cuando
+definan requisitos propios de este tipo de documento. En particular:
 
--   título → `Title`;
--   secciones → `Heading 1`;
--   subapartados → `Heading 2`;
--   subapartados adicionales cuando aporten valor → `Heading 3`;
--   texto → `Normal`.
+- La estructura y contenido del acta se rigen por este módulo.
+- La tabla de «Pendientes y próximas acciones» debe contener exactamente las
+  cinco columnas establecidas en la sección 13 y en ese orden.
+- Los apoyos visuales se incorporarán conforme a la sección 8.1, únicamente
+  cuando estén sustentados por las fuentes autorizadas y aporten comprensión.
+- El límite de extensión se rige por la sección 8.
+- La fidelidad documental y el principio de no inventar prevalecen sobre
+  cualquier consideración de presentación.
 
-No simular headings mediante formato manual.
-
-Usar tablas reales, sencillas, legibles y editables. La tabla de
-«Pendientes y próximas acciones» debe contener exactamente las cinco
-columnas establecidas en la sección 13, en ese orden. Ajustar anchos,
-orientación de página o distribución sin recortar información.
-
-Reproducir apoyos visuales relevantes de las fuentes y crear diagramas de
-flujo/proceso cuando aclaren información sustentada. Priorizar elementos
-editables cuando sea viable; comprobar legibilidad, conexiones, etiquetas
-y fidelidad respecto a la fuente.
-
-Evitar decoración, iconos, emojis, colores innecesarios, bloques
-gráficos, exceso de negritas y líneas divisorias sin función.
-
-Usar viñetas reales de Word, no caracteres de viñeta pegados como texto. Mantener niveles de anidamiento, sangrías y espaciados consistentes.
+`MINUTES DEFINE EL ACTA ≠ WORD DEFINE SU MATERIALIZACIÓN`
 
 ------------------------------------------------------------------------
 
@@ -584,25 +574,23 @@ información y que el documento respeta la extensión acordada.
 
 # 19. QA DEL WORD
 
-Antes de entregar:
+Cuando la salida sea Word, aplicar el QA documental completo definido en
+`RoyBatty_WORD.md`.
 
-1.  generar el Word;
-2.  comprobar estilos reales;
-3.  comprobar Arial;
-4.  revisar visualmente el documento completo;
-5.  revisar todas las páginas;
-6.  comprobar saltos, tablas partidas, títulos huérfanos, espacios
-    excesivos, texto cortado, márgenes, encabezados y páginas
-    prácticamente vacías;
-7.  comprobar viñetas reales, niveles, sangrías y consistencia de listas;
-8.  comprobar la tabla de acciones, sus cinco columnas, encabezados,
-    anchos, saltos y ausencia de filas ficticias;
-9.  revisar figuras y diagramas: fidelidad, legibilidad, conexiones,
-    etiquetas y ubicación junto al texto pertinente;
-10. contar las páginas del documento final y comprobar el máximo
-    solicitado o, por defecto, cinco páginas;
-11. corregir problemas;
-12. entregar solo la versión definitiva.
+Además, MINUTES exige comprobar específicamente antes de entregar:
+
+1. Que la tabla de «Pendientes y próximas acciones» contiene exactamente las
+   cinco columnas definidas en la sección 13, en el orden establecido.
+2. Que no existen filas ficticias ni responsables o fechas deducidos.
+3. Que los apoyos visuales incluidos cumplen la sección 8.1 y no incorporan
+   información no sustentada.
+4. Que el documento respeta el máximo de páginas solicitado o, por defecto,
+   el límite definido en la sección 8.
+5. Que ninguna decisión de formato ha alterado, ocultado o simplificado de
+   forma material acuerdos, decisiones, acciones, riesgos, condiciones o
+   incertidumbres.
+
+Corregir cualquier problema antes de entregar la versión definitiva.
 
 ------------------------------------------------------------------------
 
